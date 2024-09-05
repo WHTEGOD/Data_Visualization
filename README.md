@@ -26,4 +26,4 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/WHTEGOD/Data-visualization.git
+   [git clone https://github.com/WHTEGOD/Data-visualization.git](https://github.com/WHTEGOD/Data_Visualization)
